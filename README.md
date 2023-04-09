@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning <a href="https://react.dev/">React</a>.
 - 📫 How to reach me: epiliabhishek@gmail.com
 
-### **Connect Me** :
+- ### **Connect Me** :
 <a href="https://www.linkedin.com/in/abhishek-epili/"><img width="70" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png"></a><br/>
 
 - ### **Languages Used** :
